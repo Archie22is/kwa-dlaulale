@@ -136,7 +136,7 @@
                 </div>
             </div>
             <div class="row text-center">
-                <img class="img-responsive" src="img/painting.jpg" alt="painting" />
+                <img class="img-responsive center-block" src="img/painting.jpg" alt="painting" />
             </div>
         </div>
     </section>
@@ -175,7 +175,7 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
                     <h3 class="section-subheading text-un-muted">Telephone: <a href="tel:0620893640">062 089 3640</a><br>
-                    Email: <a href="mail:thembacharles@kwadlaulale.co.za">thembacharles@kwadlaulale.co.za</h3>
+                    Email: <a href="mailto:thembacharles@kwadlaulale.co.za">thembacharles@kwadlaulale.co.za</h3>
                 </div>
             </div>
             <div class="row">
@@ -235,7 +235,7 @@
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
                         <li>
-                            Developed by: <a href="" alt="_blank">thebillplease/> </a>
+                            Developed by: <a href="http://thebilplease.co.za" alt="_blank">thebillplease/> </a>
                         </li>
                     </ul>
                 </div>
